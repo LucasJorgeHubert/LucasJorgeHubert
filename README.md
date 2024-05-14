@@ -1,5 +1,5 @@
 
-### Hi, I'm Lucas Hubert, he iOS Developer  🤙
+### Hi, I'm Lucas Hubert, the iOS Developer  🤙
 I'm Lucas Hubert, iOS developer for more than 5 years, I'm start in WEB development 7 years ago, and move o iOS development because I love mobile development.
 
 ---
