@@ -5,6 +5,14 @@ I'm Lucas Hubert, iOS developer for more than 5 years, developer for 7 years.
 ---
 7+ years of development experience, including 5 years in iOS (Swift, SwiftUI, Objective-C). Specialized in financial and e-commerce apps, seamlessly integrating REST APIs for intuitive user experiences. Skilled in both legacy and modern projects. Also proficient in JavaScript (Node, Express, Angular, React, React Native) and Python API services, with UI/UX expertise in Figma and Adobe XD.
 
+---
+
+<img src="https://github.com/user-attachments/assets/73199ae5-471b-47fa-9867-1c9837258496" alt="drawing" width="200"/>
+
+Owner from open-source library BrasilAPI-Swift, a Swift Package Manager for @BrasilAPI open-source project, creating a easily way to conect the Swift Applications to BrasilAPI services.
+
+---
+
 ![image](https://img.shields.io/badge/Swift-FA7343?style=for-the-badge&logo=swift&logoColor=white)
 ![image](https://img.shields.io/badge/iOS-000000?style=for-the-badge&logo=ios&logoColor=white)
 ![image](https://img.shields.io/badge/Xcode-007ACC?style=for-the-badge&logo=Xcode&logoColor=white)
